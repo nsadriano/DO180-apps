@@ -1,7 +1,7 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
-echo "\n";
+echo "<br/>";
 echo gethostname() . "\n";
-echo "\n";
+echo "<br/>";
 print "Dell Lead Lab!";
 ?>
